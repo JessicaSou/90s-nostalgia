@@ -13,22 +13,22 @@
 
 ## Update your CSS by completing the following tasks:
 
-1. Update the following properties to a selector that would nest all other elements on the page:
+1. Update the following properties to a selector that would nest all other elements on the page:(done)
   - Set the default font family to be `Roboto`
   - Set the text color to `#222`
   - Set line height to `1.4`
   - Update font size to `110%`
   - Set background color to white
 
-2. Select the body 
+2. Select the body (done)
   - Remove `margin` for all sides on the element
 
-3. Update css to include snippet covered in class to apply `border-box` to calculate widths of elements.
+3. Update css to include snippet covered in class to apply `border-box` to calculate widths of elements.(done)
 
 4. Select img
   - Set the `width` to be `100%`
 
-5. Add a class for the logo and update the following in the css
+5. Add a class for the logo and update the following in the css (done)
   - Change width to be `160px`
   - Confirm the display property is correctly set so that the logo is displayed on its own line in the browser 
   - Center the logo in the middle of the screen
@@ -43,29 +43,29 @@
 8. Select `header`
   - Add padding to the top and bottom with the value of `1.5em` and set the left and right value to `0`  
 
-9. Update the `nav` by adjusting the following using the correct selector for the task:
+9. Update the `nav` by adjusting the following using the correct selector for the task: (done)
   - Remove bullets
   - Place list items beside one another
   - Remove default padding on the unordered list
   - Center text within the link after padding has been applied to the link
 
-10. Update the `nav` links
+10. Update the `nav` links(done)
   - Apply an appropriate display property value so that you are able to add padding
   - Add padding to the top and bottom with the value of `.5em` and set the left and right value to `.75em` 
   - Give links a `border radius` of `8px`
 
-11. Update `nav` link states for `link` and `visited`
+11. Update `nav` link states for `link` and `visited` (done)
   - Background color is purple
   - Text color is white
   - Solid border that is 2px solid white
   - Remove underline
 
-12. Update `nav` link states for `hover` and `focus`
+12. Update `nav` link states for `hover` and `focus`(done)
   - Background color is white
   - Text color is purple
   - Solid border that is 2px solid purple   
     
-13. Select element with class of `hero`
+13. Select element with class of `hero`(done?)
   - Set width to be 100%
   - Add padding to the top and bottom with the value of `10em` and set the left and right value to `0`
   - Add `background-image: url("../images/greatest-90s-fashion-trends.webp");`
@@ -74,7 +74,7 @@
   - Add `background-position: top center;`
   - Note: We will be getting into more about the background property next week so I'm not expecting you to fully understand, just apply.
 
-14. Select the `h1` with the hero section
+14. Select the `h1` with the hero section(done)
   - Set width to `75%`
   - Add padding to all sides with value `.5em`
   - Center the content using the property `margin` without applying specific values. Think automatically calculated on left and right.
@@ -84,10 +84,10 @@
   - Apply a text shadow with offsets and blur of 2px, and set color using `rgba(0,0,0,.8)`
   - Change background color to use `rgba(0,0,0,.25)`
 
-15. Select the section with the class of `trends`
+15. Select the section with the class of `trends`(done)
   - Change background color to `purple`
 
-16. Select the figure element within the section with the class of `trends`
+16. Select the figure element within the section with the class of `trends`(done)
   - Set `width` to `22%`
   - Apply an appropriate display property value so that you are able to display the figures beside one another
   - Align the figures to be centered within its parent container
@@ -96,26 +96,26 @@
   - Change text color to `white`
   - Adjust style of text to be `italic`
 
-18. Select element with the class of `icon`
+18. Select element with the class of `icon`(done?)
   - Apply an appropriate display property value so that you are able to add padding
   - Add padding to the top and bottom with the value of `2em` and set the left and right value to `0` 
 
-19. Select the images within the element with the class of `.icon`
+19. Select the images within the element with the class of `.icon`(done?)
   - Change width to be 260px
   - float the element to the left
   - Give some space to the right of the image with margin set to `2em`       
 
-20. Select the p that follows the last fashion icon (Jennifer Aniston) 
+20. Select the p that follows the last fashion icon (Jennifer Aniston) (done?)
   - Clear the left float so that things display as they should and do not overlap
 
-21. There is an unfinished section called Feature Articles. Select the element with the class of `.featured-articles`
+21. There is an unfinished section called Feature Articles. Select the element with the class of `.featured-articles`(done?)
   - Set it to not display on the page at all 
 
-22. Select footer
+22. Select footer(done?)
   - Change background color to black
   - Change text color to white
 
-23. Select the p inside footer
+23. Select the p inside footer(done?)
   - Make sure it is contained using the class of `wrapper` 
   - Ajust alignment to be centered
   - Add padding to the top and bottom with the value of `8px` and set the left and right value to `0`    
